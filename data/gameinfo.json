@@ -1,0 +1,438 @@
+{
+    "games":
+[
+{
+"id": 221380,
+"game": "Age of Empires II: HD Edition",
+"setSize": 8
+},
+{
+"id": 105450,
+"game": "Age of Empires® III: Complete Collection",
+"setSize": 9
+},
+{
+"id": 108710,
+"game": "Alan Wake",
+"setSize": 8
+},
+{
+"id": 107410,
+"game": "Arma 3",
+"setSize": 8
+},
+{
+"id": 204300,
+"game": "Awesomenauts",
+"setSize": 14
+},
+{
+"id": 107100,
+"game": "Bastion",
+"setSize": 5
+},
+{
+"id": 35140,
+"game": "Batman: Arkham Asylum GOTY Edition",
+"setSize": 5
+},
+{
+"id": 200260,
+"game": "Batman: Arkham City GOTY",
+"setSize": 7
+},
+{
+"id": 209000,
+"game": "Batman™: Arkham Origins",
+"setSize": 9
+},
+{
+"id": 8870,
+"game": "BioShock Infinite",
+"setSize": 7
+},
+{
+"id": 49520,
+"game": "Borderlands 2",
+"setSize": 6
+},
+{
+"id": 225260,
+"game": "Brütal Legend",
+"setSize": 15
+},
+{
+"id": 202990,
+"game": "Call of Duty: Black Ops II - Multiplayer",
+"setSize": 10
+},
+{
+"id": 212910,
+"game": "Call of Duty: Black Ops II - Zombies",
+"setSize": 10
+},
+{
+"id": 204450,
+"game": "Call of Juarez Gunslinger",
+"setSize": 9
+},
+{
+"id": 204360,
+"game": "Castle Crashers",
+"setSize": 6
+},
+{
+"id": 219640,
+"game": "Chivalry: Medieval Warfare",
+"setSize": 8
+},
+    {
+        "id": 225420,
+        "game": "Cities in Motion 2",
+        "setSize": 6
+    },
+{
+"id": 730,
+"game": "Counter-Strike: Global Offensive",
+"setSize": 5
+},
+{
+"id": 203770,
+"game": "Crusader Kings II",
+"setSize": 8
+},
+{
+"id": 300,
+"game": "Day of Defeat: Source",
+"setSize": 6
+},
+{
+"id": 91310,
+"game": "Dead Island",
+"setSize": 9
+},
+{
+"id": 216250,
+"game": "Dead Island Riptide",
+"setSize": 5
+},
+{
+"id": 211400,
+"game": "Deadlight",
+"setSize": 5
+},
+{
+"id": 224600,
+"game": "Defiance",
+"setSize": 8
+},
+{
+"id": 70000,
+"game": "Dino D-Day",
+"setSize": 7
+},
+{
+"id": 220440,
+"game": "DmC Devil May Cry",
+"setSize": 5
+},
+{
+"id": 219740,
+"game": "Don't Starve",
+"setSize": 5
+},
+{
+"id": 570,
+"game": "Dota 2",
+"setSize": 8
+},
+{
+"id": 236090,
+"game": "Dust: An Elysian Tail",
+"setSize": 8
+},
+{
+"id": 10500,
+"game": "Empire: Total War",
+"setSize": 6
+},
+    {
+        "id": 8500,
+        "game": "EVE Online",
+        "setSize": 5
+    },
+{
+"id": 233270,
+"game": "Far Cry® 3 Blood Dragon",
+"setSize": 6
+},
+{
+"id": 212680,
+"game": "FTL: Faster Than Light",
+"setSize": 8
+},
+{
+"id": 4000,
+"game": "Garry's Mod",
+"setSize": 9
+},
+{
+"id": 232430,
+"game": "Gone Home",
+"setSize": 6
+},
+{
+"id": 239450,
+"game": "Gun Monkeys",
+"setSize": 6
+},
+{
+"id": 209080,
+"game": "Guns of Icarus Online",
+"setSize": 9
+},
+{
+"id": 70110,
+"game": "Hacker Evolution - Untold",
+"setSize": 5
+},
+{
+"id": 220,
+"game": "Half-Life 2",
+"setSize": 8
+},
+    {
+        "id": 277430,
+        "game": "Halo: Spartan Assault",
+        "setSize": 6
+    },
+{
+"id": 203140,
+"game": "Hitman: Absolution",
+"setSize": 9
+},
+{
+"id": 219150,
+"game": "Hotline Miami",
+"setSize": 6
+},
+{
+"id": 1250,
+"game": "Killing Floor",
+"setSize": 10
+},
+{
+"id": 550,
+"game": "Left 4 Dead 2",
+"setSize": 8
+},
+{
+"id": 226720,
+"game": "Lost Planet 3",
+"setSize": 8
+},
+{
+"id": 214560,
+"game": "Mark of the Ninja",
+"setSize": 9
+},
+{
+"id": 268220,
+"game": "Meltdown",
+"setSize": 8
+},
+{
+"id": 43160,
+"game": "Metro: Last Light",
+"setSize": 9
+},
+    {
+        "id": 227280,
+        "game": "No Time to Explain",
+        "setSize": 6
+    },
+{
+"id": 201790,
+"game": "Orcs Must Die! 2",
+"setSize": 8
+},
+{
+"id": 218620,
+"game": "PAYDAY 2",
+"setSize": 9
+},
+{
+"id": 24240,
+"game": "PAYDAY: The Heist",
+"setSize": 9
+},
+{
+"id": 105800,
+"game": "PixelJunk Eden",
+"setSize": 6
+},
+{
+"id": 620,
+"game": "Portal 2",
+"setSize": 8
+},
+{
+"id": 96300,
+"game": "Ravaged Zombie Apocalypse",
+"setSize": 7
+},
+{
+"id": 201570,
+"game": "Really Big Sky",
+"setSize": 6
+},
+{
+"id": 222730,
+"game": "Reus",
+"setSize": 7
+},
+{
+"id": 241600,
+"game": "Rogue Legacy",
+"setSize": 7
+},
+{
+"id": 252490,
+"game": "Rust",
+"setSize": 5
+},
+{
+"id": 55230,
+"game": "Saints Row: The Third",
+"setSize": 7
+},
+{
+"id": 210770,
+"game": "Sanctum 2",
+"setSize": 6
+},
+
+    {
+        "id": 218680,
+        "game": "Scribblenauts Unlimited",
+        "setSize": 7
+    },
+{
+"id": 41070,
+"game": "Serious Sam 3: BFE",
+"setSize": 8
+},
+    {
+        "id": 102840,
+        "game": "Shank 2",
+        "setSize": 7
+    },
+
+{
+"id": 8930,
+"game": "Sid Meier's Civilization V",
+"setSize": 8
+},
+{
+"id": 202170,
+"game": "Sleeping Dogs™",
+"setSize": 8
+},
+{
+"id": 63380,
+"game": "Sniper Elite V2",
+"setSize": 9
+},
+{
+"id": 209540,
+"game": "Strike Suit Zero",
+"setSize": 5
+},
+{
+"id": 440,
+"game": "Team Fortress 2",
+"setSize": 9
+},
+{
+"id": 105600,
+"game": "Terraria",
+"setSize": 9
+},
+{
+"id": 72850,
+"game": "The Elder Scrolls V: Skyrim",
+"setSize": 8
+},
+{
+"id": 215530,
+"game": "The Incredible Adventures of Van Helsing",
+"setSize": 6
+},
+{
+"id": 272470,
+"game": "The Incredible Adventures of Van Helsing II",
+"setSize": 6
+},
+{
+"id": 222940,
+"game": "THE KING OF FIGHTERS XIII STEAM EDITION",
+"setSize": 13
+},
+{
+"id": 231160,
+"game": "The Swapper",
+"setSize": 5
+},
+{
+"id": 207610,
+"game": "The Walking Dead",
+"setSize": 5
+},
+{
+"id": 20920,
+"game": "The Witcher 2: Assassins of Kings Enhanced Edition",
+"setSize": 8
+},
+{
+"id": 203160,
+"game": "Tomb Raider",
+"setSize": 7
+},
+{
+"id": 200710,
+"game": "Torchlight II",
+"setSize": 6
+},
+{
+"id": 34330,
+"game": "Total War: SHOGUN 2",
+"setSize": 7
+},
+{
+"id": 35700,
+"game": "Trine",
+"setSize": 8
+},
+{
+"id": 35720,
+"game": "Trine 2",
+"setSize": 5
+},
+{
+"id": 57690,
+"game": "Tropico 4",
+"setSize": 8
+},
+    {
+        "id": 222750,
+        "game": "Wargame: AirLand Battle",
+        "setSize": 6
+    },
+{
+"id": 299460,
+"game": "Woodle Tree Adventures",
+"setSize": 6
+}
+]
+
+}

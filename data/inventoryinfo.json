@@ -1,0 +1,754 @@
+{
+    "sets": [
+        {
+            "game": "Age of Empires II: HD Edition",
+            "cards": [
+                "ADeadlyGame",
+                "CaptureTheRelic",
+                "TeutonicTrebuchet",
+                "FogOfWar"
+            ]
+        },
+        {
+            "game": "Age of Empires® III: Complete Collection",
+            "cards": [
+                "Redcoats",
+                "Discovery",
+                "AsianDynasties",
+                "Washington"
+            ]
+        },
+        {
+            "game": "Alan Wake",
+            "cards": [
+                "Alice",
+                "Barry",
+                "Hartman",
+                "Sarah",
+                "Taken"
+            ]
+        },
+        {
+            "game": "Arma 3",
+            "cards": [
+                "SDV"
+            ]
+        },
+        {
+            "game": "Awesomenauts",
+            "cards": [
+                "Raelynn",
+                "FroggyG",
+                "LeonChameleon",
+                "SheriffLonestar",
+                "Yuri",
+                "TheAwesomenauts"
+            ]
+        },
+        {
+            "game": "Bastion",
+            "cards": [
+                "TheWilds",
+                "TheShrine",
+                "TheDistillery",
+                "TheArsenal",
+                "TheWindbags"
+            ]
+        },
+        {
+            "game": "Batman: Arkham Asylum GOTY Edition",
+            "cards": [
+                "IntensiveTreatment",
+                "Death'sScent",
+                "BotanistIsley"
+            ]
+        },
+        {
+            "game": "Batman: Arkham City GOTY",
+            "cards": [
+                "Batman",
+                "Catwoman",
+                "Mr.Freeze",
+                "Riddler"
+            ]
+        },
+        {
+            "game": "Batman™: Arkham Origins",
+            "cards": [
+                "Bane",
+                "Batman",
+                "Copperhead",
+                "Deathstroke",
+                "Electrocutioner",
+                "KillerCroc",
+                "Firefly",
+                "Shiva"
+            ]
+        },
+        {
+            "game": "BioShock Infinite",
+            "cards": [
+                "BoysOfSilence",
+                "Elizabeth",
+                "Fireman",
+                "Handyman",
+                "LuteceTwins",
+                "MotorizedPatriot",
+                "Songbird"
+            ]
+        },
+        {
+            "game": "Brütal Legend",
+            "cards": [
+                "RazorfireBoar"
+            ]
+        },
+        {
+            "game": "Call of Duty: Black Ops II - Multiplayer",
+            "cards": [
+                "Hijacked",
+                "Standoff",
+                "Aftermath",
+                "Plaza",
+                "Raid",
+                "Cargo",
+                "Drone",
+                "Meltdown"
+            ]
+        },
+        {
+            "game": "Call of Duty: Black Ops II - Zombies",
+            "cards": [
+                "SamuelJ.Stuhlinger",
+                "Dr.EdwardRichtofen",
+                "TankDempsey"
+            ]
+        },
+        {
+            "game": "Castle Crashers",
+            "cards": [
+                "BeefySandwich",
+                "FrostKingSpotting",
+                "ClownPrincessDanceParty"
+            ]
+        },
+        {
+            "game": "Chivalry: Medieval Warfare",
+            "cards": [
+                "AgathaArcher",
+                "MasonMan-at-arms"
+            ]
+        },
+        {
+            "game": "Cities in Motion 2",
+            "cards": [
+                "AllISeeIsBlue"
+            ]
+        },
+        {
+            "game": "Counter-Strike: Global Offensive",
+            "cards": [
+                "Anarchist",
+                "Balkan",
+                "FBI",
+                "IDF",
+                "SWAT"
+            ]
+        },
+        {
+            "game": "Crusader Kings II",
+            "cards": [
+                "TheHorde",
+                "TheDuel",
+                "TheVoyage",
+                "TheFeast"
+            ]
+        },
+        {
+            "game": "Day of Defeat: Source",
+            "cards": [
+                "AlliedRocket",
+                "AlliedSniper",
+                "AxisPanzerschreck",
+                "AxisSupport"
+            ]
+        },
+        {
+            "game": "Dead Island",
+            "cards": [
+                "Beach",
+                "Logan",
+                "SamB",
+                "BanoiBeach",
+                "RoyalPalmResort",
+                "Pool",
+                "XianMei",
+                "Purna",
+                "Zombie"
+            ]
+        },
+        {
+            "game": "Deadlight",
+            "cards": [
+                "TheLeftovers",
+                "Ratman'sUnderpass",
+                "Lydia'sDreamscape"
+            ]
+        },
+        {
+            "game": "Defiance",
+            "cards": [
+                "DarkMatter",
+                "Hellbugs",
+                "Mutants",
+                "Volge"
+            ]
+        },
+        {
+            "game": "Dino D-Day",
+            "cards": [
+                "ValhallaAwaits",
+                "SiegMitZiegen!",
+                "WaistDeepInFreedom",
+                "FineFeatheredFiend",
+                "WingingIt",
+                "StyracAttack!",
+                "TheTyrannosaurWrecks"
+            ]
+        },
+        {
+            "game": "DmC Devil May Cry",
+            "cards": [
+                "Vergil",
+                "Dante",
+                "Hunter",
+                "DanteWalking"
+            ]
+        },
+        {
+            "game": "Don't Starve",
+            "cards": [
+                "Maxwell",
+                "Wendy",
+                "Wilson"
+            ]
+        },
+        {
+            "game": "Dota 2",
+            "cards": [
+                "BountyHunter",
+                "PhantomLancer",
+                "Razor",
+                "Riki",
+                "Tidehunter",
+                "Tiny",
+                "Tusk",
+                "VengefulSpirit"
+            ]
+        },
+        {
+            "game": "Dust: An Elysian Tail",
+            "cards": [
+                "Corbin&Colleen",
+                "Ginger",
+                "Fidget",
+                "GeneralGaius",
+                "SmoBop,Fidget,&Bopo",
+                "Haley&Matti",
+                "Jin&Cassius",
+                "Dust&Ahrah"
+            ]
+        },
+        {
+            "game": "EVE Online",
+            "cards": [
+                "Apocalypse",
+                "Heron"
+            ]
+        },
+        {
+            "game": "Empire: Total War",
+            "cards": [
+                "ReignFire"
+            ]
+        },
+        {
+            "game": "FTL: Faster Than Light",
+            "cards": [
+                "SlugCruiser"
+            ]
+        },
+        {
+            "game": "Far Cry® 3 Blood Dragon",
+            "cards": [
+                "HeavyGunner",
+                "Molotox",
+                "Rex\"Power\"Colt",
+                "Spider"
+            ]
+        },
+        {
+            "game": "Garry's Mod",
+            "cards": [
+                "FacePosing",
+                "Invasion",
+                "Physgun",
+                "Thrusters",
+                "MissingTextures"
+            ]
+        },
+        {
+            "game": "Gone Home",
+            "cards": [
+                "GoodOl'ChristmasDuck",
+                "AFranklyAwesomeBinder",
+                "RedRightHand",
+                "JustRockOutInThisCap",
+                "CalaveraDeLaDia",
+                "KickingAgainstThePatriarchy"
+            ]
+        },
+        {
+            "game": "Gun Monkeys",
+            "cards": [
+                "JetpackMonkey!",
+                "MegaBombMonkey",
+                "SPAAAAAACEMONKEY",
+                "GunMonkey"
+            ]
+        },
+        {
+            "game": "Guns of Icarus Online",
+            "cards": [
+                "ThePilot",
+                "Airship:TheSquid",
+                "Airship:TheJunker",
+                "Airship:ThePyramidion"
+            ]
+        },
+        {
+            "game": "Hacker Evolution - Untold",
+            "cards": [
+                "ClassifiedLocation",
+                "XentiCorporationAustralia",
+                "TheCity"
+            ]
+        },
+        {
+            "game": "Half-Life 2",
+            "cards": [
+                "AlyxVance",
+                "GordonFreeman",
+                "Gordon&Alyx",
+                "BringTheFightToThem",
+                "Respite"
+            ]
+        },
+        {
+            "game": "Halo: Spartan Assault",
+            "cards": [
+                "CovenantShips"
+            ]
+        },
+        {
+            "game": "Hitman: Absolution",
+            "cards": [
+                "Chinatown",
+                "TheScarecrow",
+                "ChicagoVista"
+            ]
+        },
+        {
+            "game": "Hotline Miami",
+            "cards": [
+                "Horse"
+            ]
+        },
+        {
+            "game": "Killing Floor",
+            "cards": [
+                "Husk",
+                "Scrake"
+            ]
+        },
+        {
+            "game": "Left 4 Dead 2",
+            "cards": [
+                "Smoker",
+                "Tank"
+            ]
+        },
+        {
+            "game": "Lost Planet 3",
+            "cards": [
+                "LP3-Jim",
+                "LP3-LaRoche",
+                "LP3-Braddock",
+                "LP3-Jim'sRig",
+                "LP3-Vorgg",
+                "LP3-VitalSuit"
+            ]
+        },
+        {
+            "game": "Magicka",
+            "cards": [
+                "ColdElement"
+            ]
+        },
+        {
+            "game": "Mark of the Ninja",
+            "cards": [
+                "Marked",
+                "Combat"
+            ]
+        },
+        {
+            "game": "Meltdown",
+            "cards": [
+                "CommandoBot"
+            ]
+        },
+        {
+            "game": "Metro: Last Light",
+            "cards": [
+                "HanzaHeavy"
+            ]
+        },
+        {
+            "game": "No Time to Explain",
+            "cards": [
+                "YouFromTheFuture",
+                "Man'sBestFriend"
+            ]
+        },
+        {
+            "game": "Orcs Must Die! 2",
+            "cards": [
+                "FamilyTies",
+                "IntoTheMines",
+                "Fodder",
+                "ThatWasEasy",
+                "DevilishlyHandsome"
+            ]
+        },
+        {
+            "game": "PAYDAY 2",
+            "cards": [
+                "Bain",
+                "Chains",
+                "TheElephant",
+                "Hector",
+                "Hoxton",
+                "TornPageOfTheGuideOfBain",
+                "Vlad",
+                "Wolf"
+            ]
+        },
+        {
+            "game": "PAYDAY: The Heist",
+            "cards": [
+                "Explosive"
+            ]
+        },
+        {
+            "game": "PixelJunk Eden",
+            "cards": [
+                "StarTrumpet",
+                "FaintRose",
+                "Narcissus",
+                "Spectra"
+            ]
+        },
+        {
+            "game": "Portal 2",
+            "cards": [
+                "Chell",
+                "Destruction",
+                "Finale",
+                "GlaDOS",
+                "Intro",
+                "Mannequin",
+                "Underground"
+            ]
+        },
+        {
+            "game": "Ravaged Zombie Apocalypse",
+            "cards": [
+                "DoomedBuggy"
+            ]
+        },
+        {
+            "game": "Really Big Sky",
+            "cards": [
+                "BigSkyShip",
+                "Core",
+                "Hangar",
+                "Mothership",
+                "Temporal",
+                "Dinosaur"
+            ]
+        },
+        {
+            "game": "Reus",
+            "cards": [
+                "ForestGiant",
+                "RockGiant",
+                "ForestAmbassador"
+            ]
+        },
+        {
+            "game": "Rogue Legacy",
+            "cards": [
+                "TheManor",
+                "TheWargenflorgen",
+                "TheCorruptLord"
+            ]
+        },
+        {
+            "game": "Rust",
+            "cards": [
+                "TastesLikeChicken",
+                "ILoveMyRock",
+                "ByeZombies"
+            ]
+        },
+        {
+            "game": "Saints Row: The Third",
+            "cards": [
+                "NyteBlayde",
+                "OlegKirrlovTheBrute"
+            ]
+        },
+        {
+            "game": "Sanctum 2",
+            "cards": [
+                "SkyeAutumn",
+                "SweetAutumn",
+                "SiMo",
+                "HaigenHawkins",
+                "ExplorerConscripts",
+                "BestFriendsForever"
+            ]
+        },
+        {
+            "game": "Scribblenauts Unlimited",
+            "cards": [
+                "Maxwell"
+            ]
+        },
+        {
+            "game": "Serious Sam 3: BFE",
+            "cards": [
+                "AuriganCaveDaemon",
+                "Khnum",
+                "Sandwhale",
+                "AntaresianSpider",
+                "Witch-BrideOfAchriman"
+            ]
+        },
+        {
+            "game": "Shank 2",
+            "cards": [
+                "Rex"
+            ]
+        },
+        {
+            "game": "Sid Meier's Civilization V",
+            "cards": [
+                "Bismarck",
+                "Catherine",
+                "ElizabethI"
+            ]
+        },
+        {
+            "game": "Sleeping Dogs™",
+            "cards": [
+                "North",
+                "South",
+                "Nature",
+                "Family"
+            ]
+        },
+        {
+            "game": "Sniper Elite V2",
+            "cards": [
+                "Super-powerFlag",
+                "MonsterInTheShadows",
+                "GermanParatrooper",
+                "Lenin",
+                "RedHand",
+                "BrandenburgGate",
+                "Wonder-Weapons"
+            ]
+        },
+        {
+            "game": "Strike Suit Zero",
+            "cards": [
+                "GraceReynolds",
+                "CaptainMcCallum",
+                "Control"
+            ]
+        },
+        {
+            "game": "THE KING OF FIGHTERS XIII STEAM EDITION",
+            "cards": [
+                "「Mr.KARATE」",
+                "「KimKaphwan」",
+                "「K'」",
+                "「TerryBogard」",
+                "「RobertGarcia」",
+                "「ClarkStill」",
+                "「RalfJones」",
+                "「AshCrimson」"
+            ]
+        },
+        {
+            "game": "Team Fortress 2",
+            "cards": [
+                "DEMOMAN",
+                "MEDIC",
+                "SCOUT",
+                "SOLDIER",
+                "SPY",
+                "HEAVY"
+            ]
+        },
+        {
+            "game": "Terraria",
+            "cards": [
+                "Minishark",
+                "EyeOfCthulhu",
+                "TheHallow",
+                "TheUnderworld",
+                "Night'sEdge",
+                "GlowingMushrooms",
+                "Wyvern"
+            ]
+        },
+        {
+            "game": "The Elder Scrolls V: Skyrim",
+            "cards": [
+                "Azura",
+                "NordicRuins",
+                "MehrunesDagon",
+                "DaedricWarrior",
+                "Talos",
+                "DraugrDeathlord",
+                "Troll",
+                "Wispmother"
+            ]
+        },
+        {
+            "game": "The Incredible Adventures of Van Helsing",
+            "cards": [
+                "VanHelsing",
+                "MonsterHunterExtraordinaire"
+            ]
+        },
+        {
+            "game": "The Incredible Adventures of Van Helsing II",
+            "cards": [
+                "PrisonerSeven"
+            ]
+        },
+        {
+            "game": "The Swapper",
+            "cards": [
+                "EscapePod"
+            ]
+        },
+        {
+            "game": "The Walking Dead",
+            "cards": [
+                "ANewDay",
+                "StarvedForHelp",
+                "LongRoadAhead"
+            ]
+        },
+        {
+            "game": "The Witcher 2: Assassins of Kings Enhanced Edition",
+            "cards": [
+                "Iorweth",
+                "VernonRoche",
+                "Dandelion",
+                "Dethmold",
+                "TrissMerigold",
+                "Letho",
+                "Zoltan",
+                "GeraltOfRivia"
+            ]
+        },
+        {
+            "game": "Tomb Raider",
+            "cards": [
+                "Parachute",
+                "TurningPoint"
+            ]
+        },
+        {
+            "game": "Torchlight II",
+            "cards": [
+                "Berserker",
+                "DarkAlchemist",
+                "Embermage",
+                "Engineer",
+                "Outlander",
+                "Vilderan"
+            ]
+        },
+        {
+            "game": "Total War: SHOGUN 2",
+            "cards": [
+                "Attack"
+            ]
+        },
+        {
+            "game": "Trine",
+            "cards": [
+                "OldMill",
+                "SunkenCastle",
+                "Zoya",
+                "ThroneRoom"
+            ]
+        },
+        {
+            "game": "Trine 2",
+            "cards": [
+                "Pontius",
+                "Zoya",
+                "Rosabel",
+                "Isabel"
+            ]
+        },
+        {
+            "game": "Tropico 4",
+            "cards": [
+                "Penultimo",
+                "AmbassadorCrane",
+                "GeneralRodriguez",
+                "KeithPreston",
+                "LordChuffney",
+                "MarcoMoreno",
+                "MissPineapple",
+                "SenatorNickRichards"
+            ]
+        },
+        {
+            "game": "Wargame: AirLand Battle",
+            "cards": [
+                "EastGermanArmy"
+            ]
+        },
+        {
+            "game": "Woodle Tree Adventures",
+            "cards": [
+                "WoodleBeaver",
+                "WoodleBush",
+                "SnowyEnemy",
+                "SnowyEnemy2",
+                "FirstLevel",
+                "House"
+            ]
+        }
+    ]
+}
